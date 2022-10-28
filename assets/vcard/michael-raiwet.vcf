@@ -1,16 +1,17 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 16.1//EN
+PRODID:-//Apple Inc.//iPhone OS 16.2//EN
 N:Raiwet;Michael;;;
 FN:Michael Raiwet
 ORG:Michael Raiwet Consulting;
-item1.EMAIL;type=INTERNET;type=pref:michael@raiwet.consulting
-item1.X-ABLabel:professional
-item2.EMAIL;type=INTERNET:michael@raiwet.ca
-item2.X-ABLabel:personal
+item1.EMAIL;type=INTERNET;type=pref:michael@raiwet.ca
+item1.X-ABLabel:personal
+item2.EMAIL;type=INTERNET:michael@raiwet.consulting
+item2.X-ABLabel:professional
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:1 (306) 540-2995
-ADR;type=HOME;type=pref:;;208 Railway Ave.;Stoughton;SK;S0G 4T0;Canada
-item3.URL;type=pref:http://raiwet.ca
-item3.X-ABLabel:webpage
+item3.URL;type=pref:https://raiwet.ca
+item3.X-ABLabel:personal
+item4.URL:https://raiwet.consulting
+item4.X-ABLabel:professional
 BDAY:1988-07-02
 END:VCARD
